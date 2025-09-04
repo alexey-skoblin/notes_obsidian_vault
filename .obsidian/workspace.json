@@ -4,129 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d43d0933e2c5be2b",
+        "id": "0c5ba7773fc5476f",
         "type": "tabs",
         "children": [
           {
-            "id": "9e975d3a102ac5dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "city_camp/12.08.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.08.2025"
-            }
-          },
-          {
-            "id": "d7f8987156751145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/Бот для регистраций на мероприятия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Бот для регистраций на мероприятия"
-            }
-          },
-          {
-            "id": "96ce852edd1e2d70",
+            "id": "eaad4b2cbca142d4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "ideas/schemas/command_registration_bot.md"
+                "file": "конспекты/физика/лекции/04.09.2025.md"
               },
               "icon": "excalidraw-icon",
-              "title": "command_registration_bot"
-            }
-          },
-          {
-            "id": "8494a0befb8e7997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/автоматизация постов и масштабируемость.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "автоматизация постов и масштабируемость"
-            }
-          },
-          {
-            "id": "6bbad40f1c6dc2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "city_camp/14.08.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14.08.2025"
-            }
-          },
-          {
-            "id": "5541aaa555749732",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "city_camp/11.08.2025 10.00.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11.08.2025 10.00"
-            }
-          },
-          {
-            "id": "a8fc519c1dd8e435",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ideas/schemas/command_registration_bot.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "command_registration_bot"
-            }
-          },
-          {
-            "id": "a3dd3071ed771472",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "конспекты/физика/01.09.2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "01.09.2025"
-            }
-          },
-          {
-            "id": "041a7e841129bb03",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "конспекты/физика/01.09.2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "01.09.2025"
+              "title": "04.09.2025"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OHZ.md",
+                "file": "конспекты/физика/лекции/04.09.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OHZ"
+              "title": "Backlinks for 04.09.2025"
             }
           },
           {
@@ -218,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OHZ.md",
+                "file": "конспекты/физика/лекции/04.09.2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from OHZ"
+              "title": "Outgoing links from 04.09.2025"
             }
           },
           {
@@ -247,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OHZ.md",
+                "file": "конспекты/физика/лекции/04.09.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OHZ"
+              "title": "Outline of 04.09.2025"
             }
           },
           {
@@ -286,25 +179,31 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "041a7e841129bb03",
+  "active": "eaad4b2cbca142d4",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.svg",
+    "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "ideas/schemas/command_registration_bot.md",
+    "city_camp/14.08.2025.md",
+    "ideas/автоматизация постов и масштабируемость.md",
+    "city_camp/12.08.2025.md",
+    "ideas/Бот для регистраций на мероприятия.md",
     "конспекты/ИКТ/01.09.2025.md",
     "конспекты/english/01.09.2025.md",
     "конспекты/ИКТ",
     "конспекты/Untitled.md",
     "конспекты/физика/01.09.2025.md",
     "конспекты/english",
-    "ideas/schemas/command_registration_bot.md",
     "конспекты/физика",
     "конспекты",
-    "ideas/Бот для регистраций на мероприятия.md",
     "ideas/schemas/Untitled.md",
     "ideas/schemas",
-    "ideas/автоматизация постов и масштабируемость.md",
-    "city_camp/12.08.2025.md",
     "city_camp/11.08.2025.md",
     "city_camp/Moscow Fest.md",
-    "city_camp/14.08.2025.md",
     "city_camp/13.08.2025.md",
     "city_camp/рисовашка для moscow fest.md",
     "Pasted image 20250812111527.png",
@@ -318,17 +217,14 @@
     "Pasted image 20250811152553.png",
     "Pasted image 20250811152115.png",
     "Pasted image 20250811152204.png",
-    "Pasted image 20250811152046.png",
     "ideas",
     "city_camp",
     "семинары/Untitled.md",
     "семинары/день сурка или как выбраться из замкнутого круга рутины.md",
-    "семинары",
     "OHZ.md",
     "README.md",
     "checklist_bible.md",
     "Notes/Бытие 13 глава.md",
-    "ОХЖ.md",
-    "Media/git_sync_320.mp4"
+    "ОХЖ.md"
   ]
 }
