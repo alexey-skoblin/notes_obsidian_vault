@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0c5ba7773fc5476f",
+        "id": "cfaa8cac28b4419d",
         "type": "tabs",
         "children": [
           {
-            "id": "eaad4b2cbca142d4",
+            "id": "18a8403e45a8e59c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md"
+                "file": "ideas/schemas/command_registration_bot.md"
               },
               "icon": "excalidraw-icon",
-              "title": "04.09.2025"
+              "title": "command_registration_bot"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04.09.2025"
+              "title": "Backlinks for OHZ"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04.09.2025"
+              "title": "Outgoing links from OHZ"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04.09.2025"
+              "title": "Outline of OHZ"
             }
           },
           {
@@ -179,46 +179,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eaad4b2cbca142d4",
+  "active": "18a8403e45a8e59c",
   "lastOpenFiles": [
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "ideas/schemas/command_registration_bot.md",
+    "Untitled.base",
+    "конспекты/физика/лекции/04.09.2025.md",
+    "city_camp/11.08.2025.md",
+    "ideas/автоматизация постов и масштабируемость.md",
+    "Excalidraw/Drawing 2025-08-12 11.12.34.excalidraw.md",
+    "Untitled.canvas",
+    "Pasted Image 20250903151428_162.png",
+    "Pasted Image 20250903151803_908.png",
+    "city_camp/14.08.2025.md",
+    "ideas/Бот для регистраций на мероприятия.md",
+    "city_camp/12.08.2025.md",
+    "конспекты/физика/01.09.2025.md",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.svg",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "ideas/schemas/command_registration_bot.md",
-    "city_camp/14.08.2025.md",
-    "ideas/автоматизация постов и масштабируемость.md",
-    "city_camp/12.08.2025.md",
-    "ideas/Бот для регистраций на мероприятия.md",
     "конспекты/ИКТ/01.09.2025.md",
     "конспекты/english/01.09.2025.md",
     "конспекты/ИКТ",
     "конспекты/Untitled.md",
-    "конспекты/физика/01.09.2025.md",
     "конспекты/english",
     "конспекты/физика",
     "конспекты",
     "ideas/schemas/Untitled.md",
     "ideas/schemas",
-    "city_camp/11.08.2025.md",
     "city_camp/Moscow Fest.md",
     "city_camp/13.08.2025.md",
     "city_camp/рисовашка для moscow fest.md",
     "Pasted image 20250812111527.png",
-    "Excalidraw/Drawing 2025-08-12 11.12.34.excalidraw.md",
     "Excalidraw",
     "Pasted image 20250812104513.png",
     "Pasted image 20250811155717.png",
     "Pasted image 20250811152439.png",
     "color.png",
     "Pasted image 20250811152656.png",
-    "Pasted image 20250811152553.png",
-    "Pasted image 20250811152115.png",
-    "Pasted image 20250811152204.png",
     "ideas",
-    "city_camp",
     "семинары/Untitled.md",
     "семинары/день сурка или как выбраться из замкнутого круга рутины.md",
     "OHZ.md",
