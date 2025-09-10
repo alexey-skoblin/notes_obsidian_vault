@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c5ba7773fc5476f",
+        "id": "c815e7ce0d2f23d8",
         "type": "tabs",
         "children": [
           {
-            "id": "56fb627ee0fefb40",
+            "id": "0044ab7b603542ab",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d0a1ba9301a5a066",
+            "id": "53d523cc0e2a06bc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "85ec6a4b37ad475f",
+            "id": "89503da166fc86eb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -43,8 +43,7 @@
               "title": "04.09.2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04.09.2025"
+              "title": "Backlinks for OHZ"
             }
           },
           {
@@ -136,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04.09.2025"
+              "title": "Outgoing links from OHZ"
             }
           },
           {
@@ -165,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "конспекты/физика/лекции/04.09.2025.md",
+                "file": "OHZ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04.09.2025"
+              "title": "Outline of OHZ"
             }
           },
           {
@@ -204,52 +203,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0a1ba9301a5a066",
+  "active": "725c2bf5382d5d0c",
   "lastOpenFiles": [
+    "конспекты/физика/домашки/на 10.08.2025.md",
     "конспекты/физика/лекции/04.09.2025.md",
     "конспекты/физика/практика/04.09.2025.md",
-    "конспекты/физика/домашки/на 10.08.2025.md",
-    "city_camp/11.08.2025.md",
-    "ideas/автоматизация постов и масштабируемость.md",
-    "конспекты/мат анализ/лекции/03.09.2025.md",
-    "конспекты/орг/05.09.2025.md",
-    "конспекты/линал/практика/08.09.2025.md",
+    "конспекты/физика/лекции/02.09.2025.md",
+    "color.png",
+    "conflict-files-obsidian-git.md",
     "конспекты/линал/лекции/08.09.2025.md",
-    "конспекты/факультатив математика/08.09.2025.md",
-    "Pasted Image 20250908203232_548.png",
-    "Pasted Image 20250908200803_777.png",
+    "ideas/schemas/command_registration_bot.md",
     "конспекты/физика/домашки",
+    "конспекты/факультатив математика/08.09.2025.md",
     "конспекты/факультатив математика",
-    "конспекты/Untitled.md",
-    "конспекты/линал/лекции",
-    "конспекты/линал/практика",
-    "конспекты/линал",
-    "конспекты/мат анализ/практика/05.09.2025.md",
+    "конспекты/орг/05.09.2025.md",
     "конспекты/орг",
+    "конспекты/мат анализ/практика/05.09.2025.md",
+    "конспекты/мат анализ/лекции/03.09.2025.md",
     "конспекты/мат анализ/практика",
     "конспекты/мат анализ/лекции",
-    "конспекты/мат аппарат физики/03.09.2025.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
+    "конспекты/мат анализ",
+    "конспекты/линал/практика/08.09.2025.md",
+    "конспекты/линал/практика",
+    "конспекты/линал/лекции",
+    "конспекты/линал",
+    "Pasted Image 20250908203232_548.png",
+    "Pasted Image 20250908200803_777.png",
+    "конспекты/мат анализ лекции/03.09.2025.md",
+    "конспекты/мат анализ лекции",
+    "city_camp/11.08.2025.md",
+    "ideas/автоматизация постов и масштабируемость.md",
+    "Excalidraw/Drawing 2025-08-12 11.12.34.excalidraw.md",
+    "Untitled.canvas",
+    "Pasted Image 20250903151428_162.png",
+    "Pasted Image 20250903151803_908.png",
+    "city_camp/14.08.2025.md",
+    "ideas/Бот для регистраций на мероприятия.md",
+    "city_camp/12.08.2025.md",
+    "конспекты/физика/01.09.2025.md",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.svg",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "ideas/schemas/command_registration_bot.md",
-    "city_camp/14.08.2025.md",
-    "city_camp/12.08.2025.md",
-    "ideas/Бот для регистраций на мероприятия.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
     "конспекты/ИКТ/01.09.2025.md",
     "конспекты/english/01.09.2025.md",
-    "конспекты/физика/01.09.2025.md",
+    "конспекты/Untitled.md",
     "ideas/schemas/Untitled.md",
-    "city_camp/Moscow Fest.md",
-    "city_camp/13.08.2025.md",
     "Pasted image 20250812111527.png",
     "Pasted image 20250812104513.png",
-    "Pasted image 20250811155717.png",
-    "Pasted image 20250811152439.png",
-    "color.png",
-    "Pasted image 20250811152656.png"
+    "Pasted image 20250811155717.png"
   ]
 }
