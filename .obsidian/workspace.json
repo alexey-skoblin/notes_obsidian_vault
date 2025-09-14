@@ -8,39 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d82362186a61211a",
+            "id": "eb80137ffa255483",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "конспекты/физика/домашки/на 11.09.2025.md"
+                "file": "конспекты/физика/лекции/11.09.2025.md"
               },
               "icon": "excalidraw-icon",
-              "title": "на 11.09.2025"
+              "title": "11.09.2025"
             }
           },
           {
-            "id": "b9054aef7a05c58c",
+            "id": "a978033a63d9a80a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "конспекты/физика/практика/09.09.2025.md"
+                "file": "конспекты/мат анализ/практика/12.09.2025.md"
               },
               "icon": "excalidraw-icon",
-              "title": "09.09.2025"
-            }
-          },
-          {
-            "id": "4a9e9d3ffb5860b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "конспекты/физика/практика/04.09.2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "04.09.2025"
+              "title": "12.09.2025"
             }
           }
         ]
@@ -188,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 360.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,21 +192,27 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d82362186a61211a",
+  "active": "62fbc71d00da322f",
   "lastOpenFiles": [
-    "конспекты/физика/домашки/на 11.09.2025.md",
-    "конспекты/физика/практика/04.09.2025.md",
-    "конспекты/физика/практика/09.09.2025.md",
-    "конспекты/физика/лекции/04.09.2025.md",
-    "Pasted Image 20250911080645_614.png",
-    "конспекты/физика/лекции/09.09.2025.md",
-    "конспекты/english/09.09.2025.md",
-    "конспекты/физика/домашки/на 09.09.2025.md",
+    "конспекты/физика/лекции/11.09.2025.md",
+    "конспекты/мат анализ/практика/12.09.2025.md",
     "конспекты/мат анализ/лекции/10.09.2025.md",
+    "Pasted Image 20250912141103_640.png",
+    "Pasted Image 20250911153353_314.png",
+    "Pasted Image 20250911153328_622.png",
+    "Pasted Image 20250911151402_585.png",
+    "Pasted Image 20250911143409_037.png",
+    "конспекты/физика/лекции/09.09.2025.md",
+    "конспекты/физика/практика/11.09.2025.md",
+    "конспекты/физика/лекции/04.09.2025.md",
+    "конспекты/english/09.09.2025.md",
     "Pasted image 20250909151429.png",
     "конспекты/english/02.09.2025.md",
+    "конспекты/физика/домашки/на 10.08.2025.md",
+    "конспекты/физика/практика/09.09.2025.md",
     "Pasted Image 20250909090631_004.png",
     "Pasted Image 20250909084753_136.png",
+    "конспекты/физика/практика/04.09.2025.md",
     "ideas/schemas/command_registration_bot.md",
     "city_camp/11.08.2025.md",
     "ideas/автоматизация постов и масштабируемость.md",
@@ -239,16 +234,10 @@
     "конспекты/мат анализ/практика",
     "конспекты/мат анализ/лекции",
     "конспекты/мат аппарат физики/03.09.2025.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.svg",
     "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
-    "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.svg",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "city_camp/14.08.2025.md",
-    "city_camp/12.08.2025.md",
-    "ideas/Бот для регистраций на мероприятия.md",
-    "Pasted image 20250812111527.png",
-    "Pasted image 20250812104513.png"
+    "city_camp/14.08.2025.md"
   ]
 }
