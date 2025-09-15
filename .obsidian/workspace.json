@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0c9f16cae7722879",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "конспекты/линал/лекции/15.09.2025.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "15.09.2025"
+            }
+          },
+          {
             "id": "a978033a63d9a80a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "12.09.2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe1ddc8406716a87",
@@ -192,8 +206,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "62fbc71d00da322f",
+  "active": "0c9f16cae7722879",
   "lastOpenFiles": [
+    "конспекты/линал/лекции/08.09.2025.md",
+    "конспекты/линал/лекции/15.09.2025.md",
+    "конспекты/линал/домашки/на 15.09.md",
+    "конспекты/линал/домашки",
+    "Pasted Image 20250911080645_614.png",
     "конспекты/физика/лекции/11.09.2025.md",
     "конспекты/мат анализ/практика/12.09.2025.md",
     "конспекты/мат анализ/лекции/10.09.2025.md",
@@ -219,10 +238,8 @@
     "конспекты/мат анализ/лекции/03.09.2025.md",
     "конспекты/орг/05.09.2025.md",
     "конспекты/линал/практика/08.09.2025.md",
-    "конспекты/линал/лекции/08.09.2025.md",
     "конспекты/факультатив математика/08.09.2025.md",
     "Pasted Image 20250908203232_548.png",
-    "Pasted Image 20250908200803_777.png",
     "конспекты/физика/домашки",
     "конспекты/факультатив математика",
     "конспекты/Untitled.md",
@@ -236,8 +253,6 @@
     "конспекты/мат аппарат физики/03.09.2025.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Writing Machine.md",
     "Excalidraw/Scripts/Downloaded/Full-Year Calendar Generator.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "city_camp/14.08.2025.md"
+    "Excalidraw/Scripts/Downloaded"
   ]
 }
